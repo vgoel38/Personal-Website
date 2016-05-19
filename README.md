@@ -1,1 +1,1 @@
-Visit http://www.vgoel38.github.io
+Visit http://vgoel38.github.io
