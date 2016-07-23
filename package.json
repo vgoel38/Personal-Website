@@ -1,0 +1,29 @@
+{
+  "name": "vgoel38.github.io",
+  "version": "1.0.0",
+  "description": "portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vgoel38/vgoel38.github.io.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "vishal goel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vgoel38/vgoel38.github.io/issues"
+  },
+  "homepage": "https://github.com/vgoel38/vgoel38.github.io#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0"
+  },
+  "dependencies": {
+    "grunt-responsive-images": "^0.1.9"
+  }
+}
